@@ -1,0 +1,23 @@
+
+---
+
+### **3. 29_LogTraceSynth**  
+**Description:**  
+Parses logs to extract and group repeating entries, anomalies, or error clusters.
+
+#### **README.md**
+```markdown
+# LogTraceSynth - Intelligent Log Pattern Detector
+
+LogTraceSynth detects noise, unusual activity, and repeated lines in log files using timestamp correlation.
+
+## Features
+- Repetition detection  
+- Burst grouping  
+- CLI output for syslog/auth logs  
+
+## Usage
+```bash
+git clone https://github.com/your-username/29_LogTraceSynth.git
+cd 29_LogTraceSynth
+python analyze.py
