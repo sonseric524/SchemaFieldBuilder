@@ -1,0 +1,23 @@
+
+---
+
+### **4. 29_RealTimeFlowMap**  
+**Description:**  
+Visualizes incoming data streams in real-time with an animated scrolling chart.
+
+#### **README.md**
+```markdown
+# RealTimeFlowMap - Live Metric Stream Chart
+
+RealTimeFlowMap provides a clean visualization of live numeric values for dashboards and metric feeds.
+
+## Features
+- Scrollable line chart  
+- Real-time updates  
+- Minimal setup  
+
+## Usage
+```bash
+git clone https://github.com/your-username/29_RealTimeFlowMap.git
+cd 29_RealTimeFlowMap
+python visualize.py
